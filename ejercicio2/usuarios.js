@@ -243,7 +243,8 @@ var arrayDatos = [
          "<p>" + "<strong>"+"Ciudad: "+ "</strong>"+dato_1.address.city +"</p>"+
          "<p>" + "<strong>"+"Suite: "+ "</strong>"+dato_1.address.suite +"</p>"+
          "<p>" + "<strong>"+"Codigo Zip: "+"</strong>"+ dato_1.address.zipcode +"</p>"+
-         "<p>"+ "------------------------------------------"+"</p>" + 
+         "<hr>" + "</hr>"+
+         
      "</div>";
  	html += s;
  }
